@@ -39,7 +39,6 @@
 - **Scripting** write your own validation rules using JavaScript
 - **Fancy** shows relevant information at a glance.
 - **Easy** quick to install – start using it in minutes.
-- **Try it yourself** https://greenlight.itxpt.eu 
 </td>
 </tr>
 </table>
