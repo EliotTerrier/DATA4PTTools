@@ -122,7 +122,7 @@ If you have used the image before, you can also start the web interface via Dock
 
 &nbsp;
 
-# User interface
+# Browser based interface
 
 After installing locally, you can use the web interface by opening a web browser and type the address http://localhost:8080/. Then you can click on Start validating to start a new validation session. You can also always use the New validation button in the upper right corner to start over with a new validation.
 
