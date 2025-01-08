@@ -130,9 +130,7 @@ If you have used the image before, you can also start the web interface via Dock
 
 # Web interface
 
-You can use the web interface by opening a web browser and type the address http://localhost:8080/ or you can access the online tool at the address https://greenlight.itxpt.eu/. Then you can click on Start validating to start a new validation session. You can also always use the New validation button in the upper right corner to start over with a new validation.
-
-![image](https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/343a28c9-14aa-4830-9c8a-0deca87a6db5)
+After installing locally, you can use the web interface by opening a web browser and type the address http://localhost:8080/. Then you can click on Start validating to start a new validation session. You can also always use the New validation button in the upper right corner to start over with a new validation.
 
 **For mor details on how to use the web interface, see [Manual for the web interface](https://github.com/ITxPT/DATA4PTTools/wiki/Manual-for-Web-Interface)**
 
