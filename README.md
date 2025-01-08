@@ -89,11 +89,6 @@ To run the tool locally you must ensure that the machine used has the capability
 
 &nbsp;
 
-# Getting started
-To try out the tool for the first time and evaluate the functionality you can use our hosted web interface at https://greenlight.itxpt.eu See [Web Interface](#Web-interface) for an overview of how to use the tool with the visual interface.
-
-If you find the tool useful and want to use it in more advanced scenarios, with larger files or include it in a pipeline, then you can download and install it locally in your own environment.
-
 ## Local installation
 
 To use the tool locally, you need to install Docker on the computer that you will use. You can use Windows, Mac or Linux as your base operating system, and you will find Docker and instructions on how to install in the [Docker Getting Started](https://www.docker.com/get-started/) guide.
