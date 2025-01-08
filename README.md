@@ -133,6 +133,7 @@ If you have used the image before, you can also start the web interface via Dock
 After installing locally, you can use the web interface by opening a web browser and type the address http://localhost:8080/. Then you can click on Start validating to start a new validation session. You can also always use the New validation button in the upper right corner to start over with a new validation.
 
 **For mor details on how to use the web interface, see [Manual for the web interface](https://github.com/ITxPT/DATA4PTTools/wiki/Manual-for-Web-Interface)**
+***Note: The online version of the web interface is no longer available to ensure security for the users.The online service was provided in the context of DATA4PT project, upto the end of 2024.*** 
 
 # Command Line Interface (CLI)
 
