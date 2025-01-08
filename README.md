@@ -48,7 +48,7 @@
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
  - [Local installation](#local-installation) 
-- [Web interface](#web-interface)
+- [Browser based interface](#web-interface)
 - [Command Line Interface - CLI](#command-line-interface-cli)
 - [Validation rules](#validation-rules)
 - [Building from source](#building-from-source)
