@@ -27,7 +27,7 @@
 <table>
 <tr><td>
 <img
-  src="https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/a71c8167-683a-45fb-98ef-ca29964dbfb5"
+  src="assets/images/greenlight.png"
   alt="Simple validation"
   width="25%"
   align="right"
@@ -63,7 +63,7 @@
 The tool consists of a number of components, each with a different responsibility. This will ensure that the tool is modular and that each component is easy to understand and maintain.
 
 
-![image](https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/5c999e94-b91d-48c3-900c-0593326a8426)
+![image](assets/images/Image0.png)
 
 
 |Component| Description|
@@ -99,7 +99,7 @@ After you have installed Docker, you can get the latest version of the Greenligh
 docker pull itxpt/greenlight
 ```
 
-![image](https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/64e7f05a-d43c-44e6-b29b-066cd8412852)
+![image](assets/images/Image1.png)
 
 
 We suggest that you first start to use the web interface to verify that the installation works and to learn more about the functionality. 
@@ -111,13 +111,13 @@ docker run -it -p 8080:8080 itxpt/greenlight server
 ```
 
 
-![image](https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/56c1fe22-f8ba-4164-9f26-8f2ee405eb2f)
+![image](assets/images/Image2.png)
 
 
 
 If you have used the image before, you can also start the web interface via Docker Desktop, goto to the Containers tab and press Start on the Greenlight container.
 
-![image](https://github.com/EliotTerrier/NeTEx-Profile-EPIP-wiki/assets/134064791/e3ded9be-f33c-4eb9-8391-3c2d68e43830)
+![image](assets/images/Image3.png)
 
 
 &nbsp;
